@@ -3,7 +3,7 @@ set ZIP=C:\PROGRA~1\7-Zip\7z.exe a -tzip -y -r
 set REPO=touch_wood
 set NAME=touch_wood
 set PACKID=1498273991
-set VERSION=0.0.1
+set VERSION=0.1.0
 
 
 echo %VERSION% >%REPO%\VERSION
